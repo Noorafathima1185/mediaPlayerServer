@@ -1,0 +1,97 @@
+{
+  "videos": [
+    {
+      "caption": "illuminati",
+      "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 1
+    },
+    {
+      "caption": "Ashubha Mangalakaari",
+      "image": "https://img.onmanorama.com/content/dam/mm/en/entertainment/images/2022/1/7/super-saranya-poster-c.jpg",
+      "url": "https://www.youtube.com/embed/81jbVOvOUTE",
+      "id": 2
+    },
+    {
+      "caption": "Bole Chudiyan",
+      "image": "https://c.saavncdn.com/778/Kabhi-Khushi-Kabhie-Gham-Hindi-2001-20190516150535-500x500.jpg",
+      "url": "https://www.youtube.com/embed/IBvg3WeqP1U",
+      "id": 3
+    },
+    {
+      "caption": "Paiya - Thuli Thuli",
+      "image": "https://c.saavncdn.com/984/Paiya-Tamil-2010-20200620134043-500x500.jpg",
+      "url": "https://www.youtube.com/embed/rHweW6dRRYY",
+      "id": 4
+    },
+    {
+      "caption": "neela nilave",
+      "image": "https://i.ytimg.com/vi/nYEoxne_20Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "Tamil Songs",
+      "allVideo": [
+        {
+          "caption": "Paiya - Thuli Thuli",
+          "image": "https://c.saavncdn.com/984/Paiya-Tamil-2010-20200620134043-500x500.jpg",
+          "url": "https://www.youtube.com/embed/rHweW6dRRYY",
+          "id": 4
+        }
+      ],
+      "id": 4
+    },
+    {
+      "CategoryName": "Malayalam Songs",
+      "allVideo": [],
+      "id": 6
+    },
+    {
+      "CategoryName": "Hindi Songs",
+      "allVideo": [
+        {
+          "caption": "Bole Chudiyan",
+          "image": "https://c.saavncdn.com/778/Kabhi-Khushi-Kabhie-Gham-Hindi-2001-20190516150535-500x500.jpg",
+          "url": "https://www.youtube.com/embed/IBvg3WeqP1U",
+          "id": 3
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "history": [
+    {
+      "caption": "illuminati",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "24/06/2024, 15:40:59",
+      "id": 1
+    },
+    {
+      "caption": "Ashubha Mangalakaari",
+      "url": "https://www.youtube.com/embed/81jbVOvOUTE",
+      "timeStamp": "24/06/2024, 15:41:02",
+      "id": 2
+    },
+    {
+      "caption": "Ashubha Mangalakaari",
+      "url": "https://www.youtube.com/embed/81jbVOvOUTE",
+      "timeStamp": "25/06/2024, 00:16:47",
+      "id": 3
+    },
+    {
+      "caption": "Bole Chudiyan",
+      "url": "https://www.youtube.com/embed/IBvg3WeqP1U",
+      "timeStamp": "26/06/2024, 16:39:35",
+      "id": 4
+    },
+    {
+      "caption": "Paiya - Thuli Thuli",
+      "url": "https://www.youtube.com/embed/rHweW6dRRYY",
+      "timeStamp": "26/06/2024, 17:34:13",
+      "id": 5
+    }
+  ]
+}
